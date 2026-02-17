@@ -25,6 +25,34 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- Configuração ---
     const WHATSAPP_NUMBER = "5511999999999"; // Substitua pelo número real
+    let products = []; // Variável global de produtos
+
+    // --- Carregar Produtos do JSON ---
+    const loadProducts = async () => {
+        try {
+            const response = await fetch('produtos.json');
+            if (!response.ok) throw new Error('Erro ao carregar produtos');
+            const data = await response.json();
+
+            // Unir as categorias em um único array
+            products = [
+                ...(data.mercadoLivre || []),
+                ...(data.shopee || [])
+            ];
+
+            // Renderizar inicial
+            renderFeatured();
+            renderProducts();
+            feather.replace(); // Atualizar ícones após renderizar
+
+        } catch (error) {
+            console.error('Erro:', error);
+            const container = document.getElementById('products-container');
+            if (container) {
+                container.innerHTML = '<p class="text-center">Erro ao carregar produtos. Se estiver testando localmente, use um servidor local (Live Server).</p>';
+            }
+        }
+    };
 
     // --- Funções Auxiliares ---
 
@@ -43,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const createProductCard = (product) => {
         const priceHtml = `
             <div class="price-container">
-                <span class="price">${formatCurrency(product.price)}</span>
+                <span class="price">${product.price > 0 ? formatCurrency(product.price) : 'Ver Oferta'}</span>
                 ${product.oldPrice ? `<span class="old-price">${formatCurrency(product.oldPrice)}</span>` : ''}
             </div>
         `;
@@ -52,25 +80,28 @@ document.addEventListener('DOMContentLoaded', () => {
             ? `<div class="badge-discount">-${Math.round(((product.oldPrice - product.price) / product.oldPrice) * 100)}%</div>`
             : '';
 
+        const buttonAction = product.link
+            ? `<a href="${product.link}" target="_blank" class="btn-buy">Ver na Loja <i data-feather="external-link"></i></a>`
+            : `<a href="${getWhatsAppLink(product.name)}" target="_blank" class="btn-buy">Comprar Agora <i data-feather="shopping-bag"></i></a>`;
+
         return `
             <div class="product-card" data-id="${product.id}" data-category="${product.category}">
                 <div class="product-image-container">
                     ${discountBadge}
-                    <img src="${product.image}" alt="${product.name}" loading="lazy">
+                    <img src="${product.image}" alt="${product.name}" loading="lazy" onerror="this.src='assets/img/placeholder.png'">
                     <button class="btn-quick-view" onclick="openModal(${product.id})">Espiar</button>
                 </div>
                 <div class="product-info">
                     <span class="category-tag">${product.category}</span>
                     <h3>${product.name}</h3>
-                    <p class="short-desc">${product.description.substring(0, 60)}...</p>
+                    <p class="short-desc">${product.description ? product.description.substring(0, 60) + '...' : 'Confira os detalhes desta oferta incrível.'}</p>
                     ${priceHtml}
-                    <a href="${getWhatsAppLink(product.name)}" target="_blank" class="btn-buy">
-                        Comprar Agora <i data-feather="shopping-bag"></i>
-                    </a>
+                    ${buttonAction}
                 </div>
             </div>
         `;
     };
+
 
     // --- Renderização ---
 
@@ -147,8 +178,15 @@ document.addEventListener('DOMContentLoaded', () => {
             modalOldPrice.style.display = 'none';
         }
 
-        modalBuyBtn.href = getWhatsAppLink(product.name);
+        if (product.link) {
+            modalBuyBtn.href = product.link;
+            modalBuyBtn.innerHTML = 'Ver Oferta na Loja <i data-feather="external-link"></i>';
+        } else {
+            modalBuyBtn.href = getWhatsAppLink(product.name);
+            modalBuyBtn.innerHTML = 'Pedir no WhatsApp <i data-feather="message-circle"></i>';
+        }
 
+        modalBuyBtn.target = "_blank";
         modal.classList.add('active');
         document.body.style.overflow = 'hidden'; // Prevent scrolling
     };
@@ -184,7 +222,6 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // --- Inicialização ---
-    renderFeatured();
-    renderProducts();
-    feather.replace();
+    // Iniciar carregamento
+    loadProducts();
 });

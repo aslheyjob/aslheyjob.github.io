@@ -1,134 +1,186 @@
 /* 
-   Banco de dados simulado de produtos
-   Categorias: Eletrônicos, Casa, Moda, Beleza
+   Banco de dados de produtos
+   Carregado a partir do JSON do usuário.
 */
 
 const products = [
-    // Eletrônicos
+    // --- Mercado Livre ---
     {
-        id: 1,
-        name: "Fone Bluetooth Sport",
-        category: "eletronicos",
-        price: 89.90,
-        oldPrice: 129.90,
-        description: "Fone de ouvido sem fio com alta qualidade de som, resistente a suor e bateria de longa duração.",
-        image: "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        highlight: true
+        "id": 1,
+        "name": "Creatina Monohidratada 250g Growth Supplements - Sem sabor em Pó",
+        "category": "variados",
+        "price": 0.00,
+        "oldPrice": null,
+        "description": "Oferta imperdível do Mercado Livre.",
+        "image": "https://lh3.googleusercontent.com/sitesv/APaQ0SScIucZsOFSry8L_F-Xxh23XvUJS-_wUnp60rrif4BkcshUV934pbAS_DhU4d2zhX9gwdKrjCA-D-S9z_z9RHtdpxd3-KZ6es8VjyuBNooZMWGqOWu5cmtXMcxnlKSY7eNNyMQoHfEddWz1E79myMYS3drBB9E92ebD1WglMsn2SjuOhhI9-l_U_Sgj3TfmAvdiBETM-dmf6OvC0P0oQzw7GT1cRUbHqx-UQak=w1280",
+        "link": "https://mercadolivre.com/sec/2h7z9NU",
+        "highlight": true
     },
     {
-        id: 2,
-        name: "Smartwatch Fitness Tracker",
-        category: "eletronicos",
-        price: 149.90,
-        oldPrice: 199.90,
-        description: "Monitore sua saúde, passos e sono com este relógio inteligente à prova d'água.",
-        image: "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        highlight: false
+        "id": 2,
+        "name": "Produto Mercado Livre 02",
+        "category": "variados",
+        "price": 0.00,
+        "oldPrice": null,
+        "description": "Mais uma grande oferta para descobrir.",
+        "image": "https://lh3.googleusercontent.com/sitesv/APaQ0SS3j3seuXEkEyoNLANmzqwT6GFgCuVPp4nkLNGg3oJ7X23iZ1P6kd5pF3mWaC4TG8Rdj8PxgCHmJhF5AwmLDu9ZamVepjcwT_l0eysbgdy82XhosLx7OE56mwdra-hj_iLl_4PivfvzInXcRahIRXDFoyHcx45yYW86oIxYp7Wsfvo59Ceh1im1n1KSIZXlw1_1fKzd2BINqsScGpMD6zDm2_rd0Gmn9viH0O4=w1280",
+        "link": "https://mercadolivre.com/sec/32FEwPa",
+        "highlight": false
     },
     {
-        id: 3,
-        name: "Carregador Portátil PowerBank",
-        category: "eletronicos",
-        price: 59.90,
-        oldPrice: null,
-        description: "Nunca fique sem bateria. Carregue seu celular até 3x com este powerbank compacto.",
-        image: "https://images.unsplash.com/photo-1609592424367-e85d9df96720?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        highlight: false
+        "id": 3,
+        "name": "Produto Mercado Livre 03",
+        "category": "variados",
+        "price": 0.00,
+        "oldPrice": null,
+        "description": "Qualidade e bom preço.",
+        "image": "https://lh3.googleusercontent.com/sitesv/APaQ0SRrD8pbNjCcMoKFZeYUpqU2lhpnsf1VtDNSqYJW-nAzzTAQfltsHq5GYwdPez-efYix8L4NUY1hAJjNyRhbvtHI4LCakOT-QvWR-9CKQlEoFT-yZTMbOeTldWUrsxT1gHjCaYukPTCFfiCjR9PzU-qmaM5JiXzyAU3wkVqQbGAN61sBmIVTXwd6loRw21QreFz8MBwxgDws6B6KPEPDssnYYIxfYDnHCkhN9Pg=w1280",
+        "link": "https://mercadolivre.com/sec/2UTY8QQ",
+        "highlight": false
+    },
+    {
+        "id": 4,
+        "name": "Produto Mercado Livre 04",
+        "category": "variados",
+        "price": 0.00,
+        "oldPrice": null,
+        "description": "Confira os detalhes no site.",
+        "image": "https://lh3.googleusercontent.com/sitesv/APaQ0SR4lk-ydvHKEYsFancQefpfHc3ltGNDv4L8Ejo-ZeSm0ix_xJn05SU7TVYoWDp7X0xuNFmqOcPUBDFpQKkyASYGJ7JcKlqJphlDrFhArvVAo8UpkX1QvlDPQCiRC61m3ddSkrVUbrIWYlfYSCDRCBWPy53jC4HQnf7FVi8YmH6chBkklLkR_9hbQ3PDZJacRLA7-qot5bZs2Pyks2mlplziD-DuLj84WMcSFbg=w1280",
+        "link": "https://mercadolivre.com/sec/2m2XDGF",
+        "highlight": true
+    },
+    {
+        "id": 5,
+        "name": "Produto Mercado Livre 05",
+        "category": "variados",
+        "price": 0.00,
+        "oldPrice": null,
+        "description": "Excelente oportunidade.",
+        "image": "https://lh3.googleusercontent.com/sitesv/APaQ0SSrZdWjomEDxHN-Xf7xEB2PN-Engwsfp8pLjepsXO_8z2EDZ0Pdid9IBeLlfBdLAf4Kg3X70BnznrcHiwiLzPttC1BA0s6FGYmyju9kK1AeliJUpfw66KxxF6m6zJmO37qLLvwGtSzS2NKEqRGm_o56k-1tMY22Sy5mo7gQ5eINlipsNYB3fj0vX6yXHIrK-YedFxOVxeQzgsIncxQjwvn7NqiBfsrGkYklBzM=w1280",
+        "link": "https://mercadolivre.com/sec/1qTe2C2",
+        "highlight": false
+    },
+    {
+        "id": 6,
+        "name": "Produto Mercado Livre 06",
+        "category": "variados",
+        "price": 0.00,
+        "oldPrice": null,
+        "description": "Verifique o preço atualizado no link.",
+        "image": "https://lh3.googleusercontent.com/sitesv/APaQ0STwsI5_kEhQHeHZ8FQZf_lJf2Byfe9NusCIAYLH1xJyBWbYMh6fJlzA3QsMHbdiXomVt8aNTgk9NkaBfH4UiP2eQeI_VU8CFCJY6_hri5PvBrk2QZNpyfr9lmE1pjM4BpIQd7nD2hLOrU7LqzqD7ruY7tGo9uOQOYMkUm7eSViC4ejvCCOY2ckdvP9hGTFQxzEUqcmZ0r40EzdgOrupL_PD3h94k_xl1D7ILic=w1280",
+        "link": "https://mercadolivre.com/sec/23A54KT",
+        "highlight": false
+    },
+    {
+        "id": 7,
+        "name": "Produto Mercado Livre 07",
+        "category": "variados",
+        "price": 0.00,
+        "oldPrice": null,
+        "description": "Oferta especial.",
+        "image": "https://lh3.googleusercontent.com/sitesv/APaQ0SQx7qf40ifv7Ha4K19XzEtFxovy90hINVzXgP6wRJwnPaQ_0OCjjGi2QZ9lACfjdReEc1Ai0ACsFukJl2iTsoX6qP_CHN0k8QCFvpnRyu1DotzL8JFEBOLRpto7LudKCNEFKiPJPrcmBR2VOvJ2rAohRLBqAx_O6EW7C9gSmnSWjxNgqmPCXuzim_V-MyzwIzcf98J8i6IFl0G9GB9huwPQlQpH47JvZm0u=w1280",
+        "link": "https://mercadolivre.com/sec/16djxWQ",
+        "highlight": false
+    },
+    {
+        "id": 8,
+        "name": "Produto Mercado Livre 08",
+        "category": "variados",
+        "price": 0.00,
+        "oldPrice": null,
+        "description": "Aproveite esta oferta.",
+        "image": "https://lh3.googleusercontent.com/sitesv/APaQ0SQrM5PuaLrvS61HXbz6ZgC3a1QsuWG2zgV921YbbizeFDpK5fR3MHgRofztXUbJ0DRQ_wapDRExuHcpQ7PNCL2IKSfs3UJxTDKTX48pPD14paYtKrM1tge2pO5x5dNNIBU6YUc_qTsCfVFFV0uFTnibf_FNbWNAeTK3DhTnjRBF41E7gwEeAap4ldoJUVcaINSMUjNdD9sy5_QuMh3r0rGn9tvRKMGlteK_lqI=w1280",
+        "link": "https://mercadolivre.com/sec/1fFD8rW",
+        "highlight": false
+    },
+    {
+        "id": 9,
+        "name": "Produto Mercado Livre 09",
+        "category": "variados",
+        "price": 0.00,
+        "oldPrice": null,
+        "description": "Promoção imperdível.",
+        "image": "https://lh3.googleusercontent.com/sitesv/APaQ0SRwSQ6YCn8Xv0r_3HT1c2dSgTDwyI2RYKr8WM2nTO5r5pkQXNT6ZAIZSbIfJXOKmkFDRC2RRfEboNWwbcMiZ21i1OsgmOXBv-yGdIh22XMCFjijsjurFjVEWH1aEP32G0QZckZvnSjAKmfaJCld0DqMUM1_s705oKj_X2Msb1F4UONUW5M7FVZ_KEi44tEXhVBTY9oPwEVEBYv9tBHqT-xbRVWnmDM35ebAUhc=w1280",
+        "link": "https://mercadolivre.com/sec/2iWXAQ5",
+        "highlight": false
+    },
+    {
+        "id": 10,
+        "name": "Produto Mercado Livre 10",
+        "category": "variados",
+        "price": 0.00,
+        "oldPrice": null,
+        "description": "Melhor custo-benefício.",
+        "image": "https://lh3.googleusercontent.com/sitesv/APaQ0SS3MOt2UsA2Uvk2oWEqjO2j_GJUdmSfLI99AuYNVZzMdIZ5dS1cSAwe9GRqoLYc67VJMhQSSKa6G4PiTmJ_tWf4peXu9tI6-vpCnMpx6CoWkwDDbGJP362BrZj1eu92BjWxTop7A8YDnuTrnmIOlGIayyFzEYSzvp6iSrS5XNE8vRZknfYGcLI66Z9W_JDWCInYUhcsraNg3C76ZnD9P4c0ZkpwvQAW5A=w1280",
+        "link": "https://mercadolivre.com/sec/2PhKTK8",
+        "highlight": false
     },
 
-    // Casa
+    // --- Shopee ---
     {
-        id: 4,
-        name: "Kit Organizadores de Cozinha",
-        category: "casa",
-        price: 75.00,
-        oldPrice: 99.00,
-        description: "Conjunto com 5 potes herméticos para manter seus alimentos frescos e organizados.",
-        image: "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        highlight: true
+        "id": 101,
+        "name": "Oferta Shopee 01",
+        "category": "shopee",
+        "price": 0.00,
+        "oldPrice": null,
+        "description": "Achadinho da Shopee.",
+        "image": "https://placehold.co/600x600/orange/white?text=Shopee",
+        "link": "https://s.shopee.com.br/6VIJly5Jkf",
+        "highlight": true
     },
     {
-        id: 5,
-        name: "Luminária de Mesa LED",
-        category: "casa",
-        price: 45.90,
-        oldPrice: null,
-        description: "Luminária flexível com 3 tons de luz e ajuste de brilho. Ideal para leitura e trabalho.",
-        image: "https://images.unsplash.com/photo-1534073828943-f801091a7d58?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        highlight: false
+        "id": 102,
+        "name": "Oferta Shopee 02",
+        "category": "shopee",
+        "price": 0.00,
+        "oldPrice": null,
+        "description": "Produto incrível da Shopee.",
+        "image": "https://placehold.co/600x600/orange/white?text=Shopee",
+        "link": "https://s.shopee.com.br/8AQXlDPX9s",
+        "highlight": false
     },
     {
-        id: 6,
-        name: "Umidificador de Ar Ultrassônico",
-        category: "casa",
-        price: 89.90,
-        oldPrice: 110.00,
-        description: "Melhore a qualidade do ar da sua casa com este umidificador silencioso e com luz noturna.",
-        image: "https://images.unsplash.com/photo-1628173428076-8051e70e3095?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        highlight: false
-    },
-
-    // Moda
-    {
-        id: 7,
-        name: "Mochila Urbana Resistente",
-        category: "moda",
-        price: 119.90,
-        oldPrice: 159.90,
-        description: "Mochila espaçosa, impermeável e com compartimento para notebook. Estilo e praticidade.",
-        image: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        highlight: true
+        "id": 103,
+        "name": "Oferta Shopee 03",
+        "category": "shopee",
+        "price": 0.00,
+        "oldPrice": null,
+        "description": "Desconto especial.",
+        "image": "https://placehold.co/600x600/orange/white?text=Shopee",
+        "link": "https://s.shopee.com.br/7pnhMv5Jmp",
+        "highlight": false
     },
     {
-        id: 8,
-        name: "Óculos de Sol Polarizado",
-        category: "moda",
-        price: 69.90,
-        oldPrice: 89.90,
-        description: "Proteção UV400 com estilo clássico. Acompanha estojo e flanela.",
-        image: "https://images.unsplash.com/photo-1572635196237-14b3f281503f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        highlight: false
+        "id": 104,
+        "name": "Oferta Shopee 04",
+        "category": "shopee",
+        "price": 0.00,
+        "oldPrice": null,
+        "description": "Verifique a disponibilidade.",
+        "image": "https://placehold.co/600x600/orange/white?text=Shopee",
+        "link": "https://s.shopee.com.br/4VXFOsXiyq",
+        "highlight": true
     },
     {
-        id: 9,
-        name: "Carteira Slim Couro",
-        category: "moda",
-        price: 39.90,
-        oldPrice: null,
-        description: "Carteira compacta e elegante com proteção RFID contra roubo de dados.",
-        image: "https://images.unsplash.com/photo-1627123424574-724758594e93?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        highlight: false
-    },
-
-    // Beleza
-    {
-        id: 10,
-        name: "Kit Skincare Completo",
-        category: "beleza",
-        price: 99.90,
-        oldPrice: 149.90,
-        description: "Rotina completa com sabonete, tônico e hidratante facial para todos os tipos de pele.",
-        image: "https://images.unsplash.com/photo-1619451334792-150fd785ee74?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        highlight: true
+        "id": 105,
+        "name": "Oferta Shopee 05",
+        "category": "shopee",
+        "price": 0.00,
+        "oldPrice": null,
+        "description": "Clique em Ver Oferta.",
+        "image": "https://placehold.co/600x600/orange/white?text=Shopee",
+        "link": "https://s.shopee.com.br/8AQXlf5M3g",
+        "highlight": false
     },
     {
-        id: 11,
-        name: "Escova Alisadora 3 em 1",
-        category: "beleza",
-        price: 85.00,
-        oldPrice: 120.00,
-        description: "Seca, alisa e modela o cabelo rapidamente. Tecnologia cerâmica que protege os fios.",
-        image: "https://images.unsplash.com/photo-1563291074-2bf8677ac0e5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        highlight: false
-    },
-    {
-        id: 12,
-        name: "Perfume Floral 50ml",
-        category: "beleza",
-        price: 129.90,
-        oldPrice: null,
-        description: "Fragrância delicada e marcante com notas de jasmim e rosas. Longa fixação.",
-        image: "https://images.unsplash.com/photo-1541643600914-78b084683601?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        highlight: false
+        "id": 106,
+        "name": "Oferta Shopee 06",
+        "category": "shopee",
+        "price": 0.00,
+        "oldPrice": null,
+        "description": "Aproveite esta promoção.",
+        "image": "https://placehold.co/600x600/orange/white?text=Shopee",
+        "link": "https://s.shopee.com.br/8V3OANwrHo",
+        "highlight": false
     }
 ];
