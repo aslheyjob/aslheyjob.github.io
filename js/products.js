@@ -140,11 +140,11 @@ window.products = [
     {
         "id": 13,
         "name": "Filamento Pla Velvet Preto 1kg",
-        "category": "Variados",
+        "category": "Diversos",
         "price": 0.00,
         "oldPrice": null,
         "description": "Melhor custo-benefício.",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_724447-MLA106895488253_022026-F.webp",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_872979-MLA97109618044_112025-F.webp",
         "link": "https://mercadolivre.com/sec/327tQtz",
         "highlight": false
     },
@@ -166,7 +166,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Melhor custo-benefício.",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_642327-MLA99888118883_112025-F.webp",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_745769-MLA106573280695_022026-F.webp",
         "link": "https://mercadolivre.com/sec/2NamnKQ",
         "highlight": false
     },
@@ -195,7 +195,7 @@ window.products = [
     {
         "id": 18,
         "name": "Smart Tv 32 Philco P32vik Roku Led Dolby Audio Hdr Wi-fi 110/220v",
-        "category": "Casa",
+        "category": "Eletronicos",
         "price": 0.00,
         "oldPrice": null,
         "description": "Melhor custo-benefício.",
@@ -206,7 +206,7 @@ window.products = [
     {
         "id": 19,
         "name": "Mixer Power Inox 3 Em 1 600w Elgin Lunar",
-        "category": "Casa",
+        "category": "casa",
         "price": 0.00,
         "oldPrice": null,
         "description": "Melhor custo-benefício.",
@@ -293,13 +293,122 @@ window.products = [
     },
     {
         "id": 27,
-        "name": "Aspirador Piscina Manual Netuno Venturi Nv Azul",
+        "name": "Carregador Turbo Duplo 40w Usb Tipo C Para iPhone 8 X Xr 11 12 13 14 Pro Max Dtimp",
+        "category": "Acessórios",
+        "price": 0.00,
+        "oldPrice": null,
+        "description": "Melhor custo-benefício.",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_609505-MLA105673814081_012026-F.webp",
+        "link": "https://mercadolivre.com/sec/1bmwehB",
+        "highlight": false
+    },
+    {
+        "id": 28,
+        "name": "Escorredor de Louças Compacto 13 Pratos Porta Talher Preto Metaltru",
         "category": "Casa",
         "price": 0.00,
         "oldPrice": null,
         "description": "Melhor custo-benefício.",
-        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_740298-MLA95495291638_102025-F.webp",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_956987-MLA99618172634_122025-F.webp",
+        "link": "https://mercadolivre.com/sec/22YG9yp",
+        "highlight": false
+    }, {
+        "id": 29,
+        "name": "We Varejo - Raquete Mata Mosca Elétrica Bateria Recarregável Portátil Pega Mosquitos Penilogos Matar Insetos",
+        "category": "Casa",
+        "price": 0.00,
+        "oldPrice": null,
+        "description": "Melhor custo-benefício.",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_928009-MLA105666481248_012026-F.webp",
+        "link": "https://mercadolivre.com/sec/22YG9yp",
+        "highlight": false
+    },
+    {
+        "id": 30,
+        "name": "Roçadeira Nakasaki 75cc 3.6hp Gasolina 6 Em 1 Nk750pro",
+        "category": "Casa",
+        "price": 0.00,
+        "oldPrice": null,
+        "description": "Melhor custo-benefício.",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_852970-MLB107008940939_022026-F.webp",
+        "link": "https://mercadolivre.com/sec/2iwKyDY",
+        "highlight": false
+    },
+    {
+        "id": 31,
+        "name": "Tapete Higiênico 50 Unidades (60x55) Descartável Manta Fralda Absorvente Gel Para Cachorro Pet Cão",
+        "category": "PET",
+        "price": 0.00,
+        "oldPrice": null,
+        "description": "Melhor custo-benefício.",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_916620-MLA100071703077_122025-F.webp",
         "link": "https://mercadolivre.com/sec/1bmwehB",
+        "highlight": false
+    },
+    {
+        "id": 32,
+        "name": "Smartwatch Xiaomi Redmi Watch 5 Active Tela Lcd 2.00 Preto",
+        "category": "Acessórios",
+        "price": 0.00,
+        "oldPrice": null,
+        "description": "Melhor custo-benefício.",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_949046-MLA99507276886_112025-F.webp",
+        "link": "https://mercadolivre.com/sec/1WUrWwi",
+        "highlight": false
+    },
+    {
+        "id": 33,
+        "name": "Smart Tv Samsung U8100f Crystal Uhd 4k 2025 43 Preto",
+        "category": "Casa",
+        "price": 0.00,
+        "oldPrice": null,
+        "description": "Melhor custo-benefício.",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_648933-MLA99498284868_112025-F.webp",
+        "link": "https://mercadolivre.com/sec/2jZHSG1",
+        "highlight": false
+    },
+    {
+        "id": 34,
+        "name": "Varal De Chão Grande De Roupas 3 Andares Dobrável Cor Azul Kontuz 170 cm",
+        "category": "Casa",
+        "price": 0.00,
+        "oldPrice": null,
+        "description": "Melhor custo-benefício.",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_968619-MLA99977372933_112025-F.webp",
+        "link": "https://mercadolivre.com/sec/1bmwehB",
+        "highlight": false
+    },
+    {
+        "id": 35,
+        "name": "Mochila Masculina Impermeável Reforçada Aço Escola Notebook Preto Liso",
+        "category": "Acessórios",
+        "price": 0.00,
+        "oldPrice": null,
+        "description": "Melhor custo-benefício.",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_839933-MLB98920410204_112025-F.webp",
+        "link": "https://mercadolivre.com/sec/1SRddV2",
+        "highlight": false
+    },
+    {
+        "id": 36,
+        "name": "Grill Sanduicheira Cadence SAN400 Elétrica Chapa Misteira Tostex Tostequeira Hambúrguer Click",
+        "category": "Acessórios",
+        "price": 0.00,
+        "oldPrice": null,
+        "description": "Melhor custo-benefício.",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_934834-MLA99525616894_122025-F.webp",
+        "link": "https://mercadolivre.com/sec/1YrU5Sw",
+        "highlight": false
+    },
+    {
+        "id": 37,
+        "name": "Desodorante Pedra Sal Hi Cool Cristal Vegano, Crystal Deo Stick Sem cheiro - Natural Sem Fragrância 60g Sem Alumínio Antiodor",
+        "category": "Acessórios",
+        "price": 0.00,
+        "oldPrice": null,
+        "description": "Melhor custo-benefício.",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_899521-MLA99924804553_112025-F.webp",
+        "link": "https://mercadolivre.com/sec/1Rgai3B",
         "highlight": false
     },
     // --- Shopee (Importados) ---
