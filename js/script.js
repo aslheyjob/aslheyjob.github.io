@@ -3,7 +3,13 @@
    Lógica de renderização de produtos, filtros, busca e modal.
 */
 
+// --- Variáveis Globais ---
+const WHATSAPP_NUMBER = "5511999999999"; // Substitua pelo número real
+let products = []; // Array global de produtos
+
 document.addEventListener('DOMContentLoaded', () => {
+    console.log("Script carregado!");
+
     // --- Elementos do DOM ---
     const productsContainer = document.getElementById('products-container');
     const featuredContainer = document.getElementById('featured-container');
@@ -24,7 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const modalBuyBtn = document.querySelector('.modal-buy-btn');
 
     // --- Configuração ---
-    const WHATSAPP_NUMBER = "5511999999999"; // Substitua pelo número real
+    const WHATSAPP_NUMBER = "55"; // Substitua pelo número real
     let products = []; // Variável global de produtos
 
     // --- Carregar Produtos do JSON ---
