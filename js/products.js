@@ -3,7 +3,7 @@
    Fonte única de verdade (substitui o JSON para evitar erros de CORS).
 */
 
-const products = [
+window.products = [
     // --- Mercado Livre (Agora importados do seu JSON) ---
     {
         "id": 1,
