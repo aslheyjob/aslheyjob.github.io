@@ -230,10 +230,16 @@ document.addEventListener('DOMContentLoaded', () => {
         document.body.style.overflow = 'auto';
     };
 
-    if (modalClose) modalClose.addEventListener('click', closeModal);
+    if (modalClose) {
+        modalClose.addEventListener('click', (e) => {
+            e.stopPropagation(); // Previne eventos indesejados
+            window.closeModal();
+        });
+    }
 
+    // Fechar ao clicar fora (no overlay)
     window.addEventListener('click', (e) => {
-        if (e.target === modal) closeModal();
+        if (e.target === modal) window.closeModal();
     });
 
     // --- Mobile Menu ---

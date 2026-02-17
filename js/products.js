@@ -168,7 +168,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Verifique a disponibilidade.",
-        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m9fw9t7ulx4yb8.webp",
+        "image": "https://down-br.img.susercontent.com/file/sg-11134201-7rfgq-m9ex0vr1fnonf6.webp",
         "link": "https://s.shopee.com.br/4VXFOsXiyq",
         "highlight": true
     },
