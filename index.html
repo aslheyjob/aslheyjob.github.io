@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gostou, Comprou, Chegou | Catálogo de Ofertas</title>
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+    <!-- Feather Icons -->
+    <script src="https://unpkg.com/feather-icons"></script>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <!-- Header -->
+    <header class="header">
+        <div class="container nav">
+            <button class="mobile-toggle"><i data-feather="menu"></i></button>
+            <a href="#" class="logo">GC<span>Chegou</span></a>
+
+            <ul class="nav-links">
+                <li><a href="#" class="nav-link">Início</a></li>
+                <li><a href="#destaques" class="nav-link">Destaques</a></li>
+                <li><a href="#catalogo" class="nav-link">Produtos</a></li>
+                <li><a href="#depoimentos" class="nav-link">Clientes</a></li>
+            </ul>
+
+            <div class="nav-icons">
+                <a href="#" class="cart-icon">
+                    <i data-feather="shopping-cart"></i>
+                    <span class="cart-count">2</span>
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <h1>As melhores ofertas, <br>entregues na sua porta.</h1>
+            <p>Eletrônicos, moda, casa e muito mais. Escolha o que quiser e nós entregamos com rapidez e segurança.</p>
+            <a href="#catalogo" class="btn btn-primary">Ver Ofertas</a>
+        </div>
+    </section>
+
+    <!-- Destaques -->
+    <section id="destaques" class="section">
+        <div class="container">
+            <div class="text-center mb-2">
+                <h2>Produtos em Destaque</h2>
+                <p>Nossa seleção especial com os melhores preços da semana.</p>
+            </div>
+            <div id="featured-container" class="product-grid">
+                <!-- Javascript vai renderizar aqui -->
+                <p>Carregando destaques...</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Catálogo Completo -->
+    <section id="catalogo" class="section" style="background-color: #f1f5f9;">
+        <div class="container">
+            <div class="text-center mb-2">
+                <h2>Catálogo Completo</h2>
+            </div>
+
+            <!-- Filtros e Busca -->
+            <div class="filters-bar">
+                <div class="categories">
+                    <button class="category-btn active" data-category="todos">Todos</button>
+                    <button class="category-btn" data-category="eletronicos">Eletrônicos</button>
+                    <button class="category-btn" data-category="casa">Casa</button>
+                    <button class="category-btn" data-category="moda">Moda</button>
+                    <button class="category-btn" data-category="beleza">Beleza</button>
+                </div>
+                <div class="search-box">
+                    <input type="text" id="search-input" placeholder="Buscar produto...">
+                </div>
+            </div>
+
+            <!-- Grid de Produtos -->
+            <div id="products-container" class="product-grid">
+                <!-- Javascript vai renderizar aqui -->
+                <p>Carregando produtos...</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Depoimentos (Simples) -->
+    <section id="depoimentos" class="section">
+        <div class="container">
+            <div class="text-center mb-2">
+                <h2>Clientes Felizes</h2>
+            </div>
+            <div class="product-grid" style="grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));">
+                <div style="background: white; padding: 2rem; border-radius: 8px; box-shadow: var(--shadow-sm);">
+                    <p style="font-style: italic; margin-bottom: 1rem;">"A entrega foi super rápida e o produto chegou
+                        impecável. Recomendo muito!"</p>
+                    <strong>- Mariana S.</strong>
+                </div>
+                <div style="background: white; padding: 2rem; border-radius: 8px; box-shadow: var(--shadow-sm);">
+                    <p style="font-style: italic; margin-bottom: 1rem;">"Preço justo e atendimento excelente pelo
+                        WhatsApp. Comprarei novamente."</p>
+                    <strong>- Carlos E.</strong>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div>
+                    <a href="#" class="logo"
+                        style="color:white; display:block; margin-bottom: 1rem;">GC<span>Chegou</span></a>
+                    <p>Qualidade e confiança em cada entrega.</p>
+                </div>
+                <div>
+                    <h3>Ajuda</h3>
+                    <ul class="footer-links">
+                        <li><a href="#">Rastrear Pedido</a></li>
+                        <li><a href="#">Trocas e Devoluções</a></li>
+                        <li><a href="#">Política de Privacidade</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h3>Contato</h3>
+                    <ul class="footer-links">
+                        <li>(11) 99999-9999</li>
+                        <li>contato@gcchegou.com</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="copyright">
+                <p>&copy; 2024 Gostou, Comprou, Chegou. Todos os direitos reservados.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Product Modal -->
+    <div id="product-modal" class="modal">
+        <div class="modal-content">
+            <button class="modal-close" onclick="closeModal()">&times;</button>
+            <div class="modal-image">
+                <img id="modal-image" src="" alt="Produto">
+            </div>
+            <div class="modal-details">
+                <span id="modal-category" class="category-tag">Categoria</span>
+                <h2 id="modal-title">Nome do Produto</h2>
+                <div class="modal-price-box">
+                    <span id="modal-price" class="price">R$ 00,00</span>
+                    <span id="modal-old-price" class="old-price">R$ 00,00</span>
+                </div>
+                <p id="modal-description">Descrição detalhada do produto.</p>
+
+                <a href="#" target="_blank" class="btn btn-buy modal-buy-btn">
+                    Continuar Compra <i data-feather="message-circle"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="js/products.js"></script>
+    <script src="js/script.js"></script>
+</body>
+
+</html>
