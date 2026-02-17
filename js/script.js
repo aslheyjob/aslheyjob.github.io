@@ -81,6 +81,21 @@ document.addEventListener('DOMContentLoaded', () => {
 
         if (totalPages <= 1) return;
 
+        // Prev Button
+        const prevBtn = document.createElement('button');
+        prevBtn.classList.add('page-btn', 'nav-btn');
+        prevBtn.innerHTML = '<i data-feather="chevron-left"></i>';
+        prevBtn.disabled = currentPage === 1;
+        prevBtn.onclick = () => {
+            if (currentPage > 1) {
+                currentPage--;
+                renderPaginatedProducts();
+                document.getElementById('catalogo').scrollIntoView({ behavior: 'smooth' });
+            }
+        };
+        paginationContainer.appendChild(prevBtn);
+
+        // Page Numbers
         for (let i = 1; i <= totalPages; i++) {
             const btn = document.createElement('button');
             btn.classList.add('page-btn');
@@ -89,10 +104,26 @@ document.addEventListener('DOMContentLoaded', () => {
             btn.addEventListener('click', () => {
                 currentPage = i;
                 renderPaginatedProducts();
-                window.location.href = '#catalogo'; // Scroll to top of catalog
+                document.getElementById('catalogo').scrollIntoView({ behavior: 'smooth' });
             });
             paginationContainer.appendChild(btn);
         }
+
+        // Next Button
+        const nextBtn = document.createElement('button');
+        nextBtn.classList.add('page-btn', 'nav-btn');
+        nextBtn.innerHTML = '<i data-feather="chevron-right"></i>';
+        nextBtn.disabled = currentPage === totalPages;
+        nextBtn.onclick = () => {
+            if (currentPage < totalPages) {
+                currentPage++;
+                renderPaginatedProducts();
+                document.getElementById('catalogo').scrollIntoView({ behavior: 'smooth' });
+            }
+        };
+        paginationContainer.appendChild(nextBtn);
+
+        feather.replace();
     };
 
     const renderPaginatedProducts = () => {
