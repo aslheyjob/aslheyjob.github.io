@@ -115,6 +115,17 @@ const products = [
         "link": "https://mercadolivre.com/sec/2PhKTK8",
         "highlight": false
     },
+    {
+        "id": 11,
+        "name": "Parafusadeira Furadeira C/ 2 Baterias Maleta Kit Completo Led",
+        "category": "ferramentas",
+        "price": 0.00,
+        "oldPrice": null,
+        "description": "Melhor custo-benefício.",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_828436-MLA100007265481_122025-F.webp",
+        "link": "https://mercadolivre.com/sec/2PhKTK8",
+        "highlight": false
+    },
 
     // --- Shopee (Importados) ---
     {
