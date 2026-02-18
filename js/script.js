@@ -178,6 +178,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
             if (category === 'todos') {
                 currentFilteredProducts = [...products];
+            } else if (category === 'mercadolivre') {
+                currentFilteredProducts = products.filter(p => p.link.includes('mercadolivre') || p.link.includes('ml.com'));
+            } else if (category === 'shopee') {
+                currentFilteredProducts = products.filter(p => p.link.includes('shopee'));
             } else {
                 currentFilteredProducts = products.filter(p => p.category.toLowerCase() === category.toLowerCase());
             }
