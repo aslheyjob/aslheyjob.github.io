@@ -165,7 +165,8 @@ document.addEventListener('DOMContentLoaded', () => {
         renderPaginatedProducts();
     };
 
-    // --- Filtros e Busca --ajuste nos produtos-
+    // --- Filtros e Busca --ajuste nos produtos
+    // -
 
     // Filtrar por Categoria
     categoryButtons.forEach(btn => {
