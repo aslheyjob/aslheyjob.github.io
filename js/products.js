@@ -675,6 +675,60 @@ window.products = [
         "link": "https://mercadolivre.com/sec/1vx2aCG",
         "highlight": false
     },
+    {
+        "id": 62,
+        "name": "Limpa Maquina De Lavar Roupas Pastilha Limpeza 12 Unidades",
+        "category": "Casa",
+        "price": 0.00,
+        "oldPrice": null,
+        "description": "Melhor custo-benefício.",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_994208-MLB101086743845_122025-F.webp",
+        "link": "https://mercadolivre.com/sec/1mqk2WY",
+        "highlight": false
+    }, {
+        "id": 63,
+        "name": "Kit 6 Pares Meias Puma Cano Médio Alto Atoalhada Original",
+        "category": "Moda",
+        "price": 0.00,
+        "oldPrice": null,
+        "description": "Melhor custo-benefício.",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_617361-MLB54128842596_032023-F-kit-6-pares-meias-puma-cano-medio-alto-atoalhada-original.webp",
+        "link": "https://mercadolivre.com/sec/1NwBHJA",
+        "highlight": false
+    },
+    {
+        "id": 64,
+        "name": "Notebook Acer Aspire Go 15 AG15-51P-39MU – Intel Core i3-1305U 13ª Geração • 8GB DDR5 RAM • 256GB SSD • Tela 15,3' • Windows 11 Home",
+        "category": "Eletrônicos",
+        "price": 0.00,
+        "oldPrice": null,
+        "description": "Melhor custo-benefício.",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_692920-MLA100061644521_122025-F.webp",
+        "link": "https://mercadolivre.com/sec/2LZzRBz",
+        "highlight": false
+    },
+    {
+        "id": 65,
+        "name": "Capa Impermeável Para Carro Proteção Total Uv Chuva",
+        "category": "Acessórios",
+        "price": 0.00,
+        "oldPrice": null,
+        "description": "Melhor custo-benefício.",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_647333-MLB96268103903_102025-F-capa-impermeavel-para-carro-proteco-total-uv-chuva.webp",
+        "link": "https://mercadolivre.com/sec/12t8TK2",
+        "highlight": false
+    },
+    {
+        "id": 66,
+        "name": "Filtro De Café Reutilizável Em Aço Inox Modelo 103 Peneira Permanente Sustentável Coar Café Tradicional Sem Papel Econômico E Durável Ponte Lar Utilidades",
+        "category": "Casa",
+        "price": 0.00,
+        "oldPrice": null,
+        "description": "Melhor custo-benefício.",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_803581-MLA99564243074_122025-F.webp",
+        "link": "https://mercadolivre.com/sec/1TSg8F4",
+        "highlight": false
+    },
 
     // --- Shopee (Importados) ---
     {
