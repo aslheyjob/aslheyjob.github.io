@@ -1059,15 +1059,15 @@ window.products = [
         "highlight": false
     },
     {
-        ``"id": 131,
-    "name": "Escova De Limpeza 9 Em1 Recarregavél Elétrica Giratória Com Cabo Alongador",
-    "category": "shopee",
-    "price": 0.00,
-    "oldPrice": null,
-    "description": "Oferta Shopee. Clique para conferir.",
-    "image": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mie9qo52n952e9.webp",
-    "link": "https://s.shopee.com.br/9fFLZDJNbP",
-    "highlight": false``
+        "id": 131,
+        "name": "Escova De Limpeza 9 Em1 Recarregavél Elétrica Giratória Com Cabo Alongador",
+        "category": "shopee",
+        "price": 0.00,
+        "oldPrice": null,
+        "description": "Oferta Shopee. Clique para conferir.",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mie9qo52n952e9.webp",
+        "link": "https://s.shopee.com.br/9fFLZDJNbP",
+        "highlight": false``
     },
     {
         "id": 132,
@@ -1346,7 +1346,7 @@ window.products = [
     },
     {
         "id": 156,
-        "name": "40 Peças / 46 Peças Jogo De Chave Catraca Caixa De Ferramentas Completa Reversível Soquetes Maleta,
+        "name": "40 Peças / 46 Peças Jogo De Chave Catraca Caixa De Ferramentas Completa Reversível Soquetes Maleta",
         "category": "shopee",
         "price": 0.00,
         "oldPrice": null,
