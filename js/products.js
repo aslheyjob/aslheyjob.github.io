@@ -1067,7 +1067,7 @@ window.products = [
         "description": "Oferta Shopee. Clique para conferir.",
         "image": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mie9qo52n952e9.webp",
         "link": "https://s.shopee.com.br/9fFLZDJNbP",
-        "highlight": false``
+        "highlight": false
     },
     {
         "id": 132,
