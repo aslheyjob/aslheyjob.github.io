@@ -264,7 +264,7 @@ window.products = [
         "description": "Melhor custo-benefício.",
         "image": "https://http2.mlstatic.com/D_NQ_NP_2X_748103-MLA99906601653_112025-F.webp",
         "link": "https://mercadolivre.com/sec/1L8jaQh",
-        "highlight": false
+        "highlight": true
     },
     {
         "id": 25,
@@ -549,7 +549,7 @@ window.products = [
         "description": "Melhor custo-benefício.",
         "image": "https://http2.mlstatic.com/D_NQ_NP_2X_959247-MLA102611680880_122025-F.webp",
         "link": "https://mercadolivre.com/sec/2P8WJqi",
-        "highlight": false
+        "highlight": true
     },
     {
         "id": 51,
@@ -681,7 +681,7 @@ window.products = [
         "description": "Melhor custo-benefício.",
         "image": "https://http2.mlstatic.com/D_NQ_NP_2X_994208-MLB101086743845_122025-F.webp",
         "link": "https://mercadolivre.com/sec/1mqk2WY",
-        "highlight": false
+        "highlight": true
     }, {
         "id": 63,
         "name": "Kit 6 Pares Meias Puma Cano Médio Alto Atoalhada Original",
@@ -781,7 +781,7 @@ window.products = [
         "description": "Clique em Ver Oferta.",
         "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m8xer7tqkxkyde.webp",
         "link": "https://s.shopee.com.br/8AQXlf5M3g",
-        "highlight": false
+        "highlight": true
     },
     {
         "id": 106,
@@ -880,7 +880,7 @@ window.products = [
         "description": "Oferta Shopee. Clique para conferir.",
         "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-mckte4fnpkht93.webp",
         "link": "https://s.shopee.com.br/5fjCnFf5aj",
-        "highlight": false
+        "highlight": true
     },
     {
         "id": 115,
@@ -935,7 +935,7 @@ window.products = [
         "description": "Oferta Shopee. Clique para conferir.",
         "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-mbxi2wd1amvtfc.webp",
         "link": "https://s.shopee.com.br/8fMoMwgp8r",
-        "highlight": false
+        "highlight": true
     },
     {
         "id": 120,
@@ -950,17 +950,6 @@ window.products = [
     },
     {
         "id": 121,
-        "name": "Protetor Lençol Ajustável Impermeável Avulso Para Colchão Berço, Solteiro, Casal, Queen e King",
-        "category": "shopee",
-        "price": 0.00,
-        "oldPrice": null,
-        "description": "Oferta Shopee. Clique para conferir.",
-        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m7mjziggp1s2c2.webp",
-        "link": "https://s.shopee.com.br/6fbjzLiDyq",
-        "highlight": false
-    },
-    {
-        "id": 122,
         "name": "KIT lili 350ml creme e perfume acetinado corpo e mãos hidratante lily lulli cuide se bem",
         "category": "shopee",
         "price": 0.00,
@@ -971,7 +960,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 123,
+        "id": 122,
         "name": "Bicicleta elétrica dobrável para adultos NUDA, pedal tripulado, compras ao ar livre, viagem",
         "category": "shopee",
         "price": 0.00,
@@ -982,7 +971,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 124,
+        "id": 123,
         "name": "Kit Taças De Vidro Diamond Greek Para Vinho E Água 330 ML",
         "category": "shopee",
         "price": 0.00,
@@ -993,7 +982,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 125,
+        "id": 124,
         "name": "Kit 3 Unidades Sabonete Líquido Chá Branco 500 ml",
         "category": "shopee",
         "price": 0.00,
@@ -1004,7 +993,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 126,
+        "id": 125,
         "name": "Kit Completo Karseell Máscara 500 g + condicionador 1L + Shampoo 1L + Óleo karseell P 50ml",
         "category": "shopee",
         "price": 0.00,
@@ -1015,7 +1004,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 127,
+        "id": 126,
         "name": "Jogo de Lençol Percal 180 Fios 100% Algodão – Todos os Tamanhos",
         "category": "shopee",
         "price": 0.00,
@@ -1026,7 +1015,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 128,
+        "id": 127,
         "name": "kit Coala Home Chá Branco",
         "category": "shopee",
         "price": 0.00,
@@ -1037,7 +1026,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 129,
+        "id": 128,
         "name": "Fone de Ouvido Bluetooth Sem Fio Digital Alta Qualidade Intra Auricular M47",
         "category": "shopee",
         "price": 0.00,
@@ -1048,7 +1037,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 130,
+        "id": 129,
         "name": "Kit com 15 potes herméticos plásticos para cozinha",
         "category": "shopee",
         "price": 0.00,
@@ -1056,10 +1045,10 @@ window.products = [
         "description": "Oferta Shopee. Clique para conferir.",
         "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-mcx088rti8fm2c.webp",
         "link": "https://s.shopee.com.br/7VAqzCSVLy",
-        "highlight": false
+        "highlight": true
     },
     {
-        "id": 131,
+        "id": 130,
         "name": "Escova De Limpeza 9 Em1 Recarregavél Elétrica Giratória Com Cabo Alongador",
         "category": "shopee",
         "price": 0.00,
@@ -1070,7 +1059,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 132,
+        "id": 131,
         "name": "ROMANTIC CROWN Copo Térmico Portátil 1200ml/600ml com Tampa e Canudo Garrafa Térmica Inoxidável À prova de vazamentos",
         "category": "shopee",
         "price": 0.00,
@@ -1081,7 +1070,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 133,
+        "id": 132,
         "name": "Aparelho Medidor De Pressão Arterial De Braço Digital Inteligente-XHL HOME",
         "category": "shopee",
         "price": 0.00,
@@ -1092,7 +1081,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 134,
+        "id": 133,
         "name": "Kit 6 Potes Para Tempero 200ml Vidro Hermético Tampa Bambu Alta Vedação Mantimentos",
         "category": "shopee",
         "price": 0.00,
@@ -1103,7 +1092,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 135,
+        "id": 134,
         "name": "5/10/20 Peças Pano Absorvente Anti Óleo Para Cozinha /Pano De Microfibra /Toalha De Limpeza De Cozinha/Toalha De Mesa",
         "category": "shopee",
         "price": 0.00,
@@ -1114,7 +1103,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 136,
+        "id": 135,
         "name": "Mini Liquidificador Portátil De Suco De Alimentos Misturador Leite Smoothie 400ML 6 Lâminas Espremedor Elétrico",
         "category": "shopee",
         "price": 0.00,
@@ -1144,7 +1133,7 @@ window.products = [
         "description": "Oferta Shopee. Clique para conferir.",
         "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-mdb91lc0nke993.webp",
         "link": "https://s.shopee.com.br/7fUHBm3Gcm",
-        "highlight": false
+        "highlight": true
     },
     {
         "id": 138,
@@ -1587,7 +1576,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 179,
+        "id": 178,
         "name": "KIT COMPLETO Diamond com borda dourada jarra 1L, 6 Taças 340ML, 6 Copos 370ML",
         "category": "shopee",
         "price": 0.00,
@@ -1598,7 +1587,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 180,
+        "id": 179,
         "name": "Kit Banheiro Em Bambu Com Lixeira Tampa Detalhes Luxo",
         "category": "shopee",
         "price": 0.00,
@@ -1609,7 +1598,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 181,
+        "id": 180,
         "name": "Kit shampoo novo 1L Condicionador novo 1L mascara 500g óleo karseell novo.",
         "category": "shopee",
         "price": 0.00,
@@ -1620,7 +1609,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 182,
+        "id": 181,
         "name": "Kit 5 Escovas de Cabelo + Touca de Cetim – Raquete Fashion, Mágica, Polvo, Massageadora de Silicone",
         "category": "shopee",
         "price": 0.00,
@@ -1631,18 +1620,18 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 183,
-        "name": "Produto Shopee 183",
+        "id": 182,
+        "name": "KIT de Utensílios Para Cozinha em Silicone e Bambu 12 Peças",
         "category": "shopee",
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "assets/images/placeholder.png",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m0vlofzgnb8gc9.webp",
         "link": "https://s.shopee.com.br/qdx4BVVjq",
         "highlight": false
     },
     {
-        "id": 184,
+        "id": 183,
         "name": "36 Etiquetas para Potes de Condimentos Temperos Mantimentos 3,8x3,8cm",
         "category": "shopee",
         "price": 0.00,
@@ -1653,7 +1642,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 185,
+        "id": 184,
         "name": "Fatiador Profissional Multifuncional De Aço Inoxidável 16 Em 1 Para Vegetais/Frutas/Legumes",
         "category": "shopee",
         "price": 0.00,
@@ -1664,7 +1653,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 186,
+        "id": 185,
         "name": "Bicicleta Ergométrica Bluetooth 2.0 Jogos AR para Spinning Mecanica SKYBOARD Roda de Inércia CD1210",
         "category": "shopee",
         "price": 0.00,
@@ -1675,7 +1664,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 187,
+        "id": 186,
         "name": "Espelho Grande de Chão Oval com Moldura em Aluminio Corpo Inteiro Casamento Quarto Casa Decorativo Vestir",
         "category": "shopee",
         "price": 0.00,
@@ -1686,7 +1675,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 188,
+        "id": 187,
         "name": "Eudora Siàge – Shampoo Condicionador Máscara Escolha o seu",
         "category": "shopee",
         "price": 0.00,
@@ -1697,7 +1686,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 189,
+        "id": 188,
         "name": "Conjunto Potes de Vidro com Tampa Bambu Cristal Porta Mantimentos Cozinha 3 Peças",
         "category": "shopee",
         "price": 0.00,
@@ -1708,7 +1697,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 190,
+        "id": 189,
         "name": "Parafusadeira Furadeira Sem Fio Com Completo Acessórios Caixa de Papelão Bivolt.",
         "category": "shopee",
         "price": 0.00,
@@ -1719,7 +1708,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 191,
+        "id": 190,
         "name": "Mop Spray Refil de Microfibra Com Reservatório",
         "category": "shopee",
         "price": 0.00,
@@ -1730,7 +1719,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 192,
+        "id": 191,
         "name": "Kit 2 Balanças: Cozinha + Corporal | OliverHome",
         "category": "shopee",
         "price": 0.00,
@@ -1741,7 +1730,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 193,
+        "id": 192,
         "name": "Kit 6 Toalha de Banho Grande Macia Premium 100% Algodão",
         "category": "shopee",
         "price": 0.00,
@@ -1752,7 +1741,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 194,
+        "id": 193,
         "name": "Jogo Americano Matelasse Cor Marrom Pvc",
         "category": "shopee",
         "price": 0.00,
@@ -1763,7 +1752,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 195,
+        "id": 194,
         "name": "Kit C/12 Peças Utensílios De Cozinha Colheres Espatula Silicone Cabo Madeira Decoração Livre BPA",
         "category": "shopee",
         "price": 0.00,
@@ -1774,7 +1763,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 196,
+        "id": 195,
         "name": "Kit Banheiro Completo Lixeira C/ Tampa Detalhes Em Bambu Luxo",
         "category": "shopee",
         "price": 0.00,
@@ -1782,10 +1771,10 @@ window.products = [
         "description": "Oferta Shopee. Clique para conferir.",
         "image": "https://down-br.img.susercontent.com/file/br-11134207-81ztc-mk811k8aieipfa.webp",
         "link": "https://s.shopee.com.br/2g5bFYOX1P",
-        "highlight": false
+        "highlight": true
     },
     {
-        "id": 197,
+        "id": 196,
         "name": "KIT 3 Regatas Casual Basica Suplex Duplo Blusa Feminina Blogueira Tendencia",
         "category": "shopee",
         "price": 0.00,
@@ -1796,9 +1785,7 @@ window.products = [
         "highlight": false
     },
     {
-    },
-    {
-        "id": 198,
+        "id": 197,
         "name": "KIT 12 Peças de Utensílios Para Cozinha em Silicone e Bambu",
         "category": "shopee",
         "price": 0.00,
@@ -1809,7 +1796,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 199,
+        "id": 198,
         "name": "Protetor Para Colchão 100% Impermeavel com Elastico em Toda Volta",
         "category": "shopee",
         "price": 0.00,
@@ -1820,7 +1807,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 200,
+        "id": 199,
         "name": "Chaleira Elétrica Térmica Bule Com Tampa Inox 1,8L",
         "category": "shopee",
         "price": 0.00,
@@ -1831,7 +1818,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 201,
+        "id": 200,
         "name": "Bicicleta Aro 29 Aço Carbono KGT Freios A Disco 21 Marchas",
         "category": "shopee",
         "price": 0.00,
@@ -1842,8 +1829,8 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 202,
-        "name": "Produto Shopee 203",
+        "id": 201,
+        "name": "Kit Porta Frios com Tampa Duplo Hermético 770ml Para Queijo Presunto Pote Mantimentos Acrilico",
         "category": "shopee",
         "price": 0.00,
         "oldPrice": null,
@@ -1853,18 +1840,18 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 203,
+        "id": 202,
         "name": "Kit Porta Frios com Tampa Duplo Hermético 770ml Para Queijo Presunto Pote Mantimentos Acrilico",
         "category": "shopee",
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-me8olrxqhog23c.webp",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-mdm10q1xnvm9f6.webp",
         "link": "https://s.shopee.com.br/6fbk0u9IuJ",
         "highlight": false
     },
     {
-        "id": 204,
+        "id": 203,
         "name": "Arranjo c/ 3 Trepadeira Folha de HERA + Vaso Trançado Marrom",
         "category": "shopee",
         "price": 0.00,
@@ -1875,7 +1862,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 205,
+        "id": 204,
         "name": "Conjunto Fitness Feminina Para Treino Super Confortável Com Bojo Short Roupa Para Academia",
         "category": "shopee",
         "price": 0.00,
@@ -1886,7 +1873,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 206,
+        "id": 205,
         "name": "Kit 3/6/12 Taças Copo Diamond Vidro Transparente Para Bebidas 340ml",
         "category": "shopee",
         "price": 0.00,
@@ -1897,7 +1884,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 207,
+        "id": 206,
         "name": "Stick de blush multi-funções-Cor natural de longa duração para maquiagem feminina",
         "category": "shopee",
         "price": 0.00,
@@ -1908,7 +1895,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 208,
+        "id": 207,
         "name": "Camiseta Treino Feminina Docinho Oversized Roupas de Academia Look de Treino Super Poderosas Meme",
         "category": "shopee",
         "price": 0.00,
@@ -1919,7 +1906,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 209,
+        "id": 208,
         "name": "Kit 11 potes de vidro com tampa de bambu herméticos redondos - Tüd",
         "category": "shopee",
         "price": 0.00,
@@ -1930,7 +1917,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 210,
+        "id": 209,
         "name": "Kit 5 Calcinha Sem Costura Não Marca Calcinha Corte a Laser Tanga",
         "category": "shopee",
         "price": 0.00,
@@ -1941,7 +1928,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 211,
+        "id": 210,
         "name": "Manta Sofá Luxo Gigante 2,10x1,20 - Protetora e Decorativa Cores Variadas",
         "category": "shopee",
         "price": 0.00,
@@ -1952,7 +1939,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 212,
+        "id": 211,
         "name": "Kit 20 Esmalte Impala Cremoso Hipoalergenico Cor da Sua Moda esmalte Kit Manicure Completo",
         "category": "shopee",
         "price": 0.00,
@@ -1963,7 +1950,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 213,
+        "id": 212,
         "name": "Kit Cronograma Capilar Completo Karseell – 3 Máscaras (Hidratação, Nutrição e Reconstrução)",
         "category": "shopee",
         "price": 0.00,
@@ -1974,7 +1961,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 214,
+        "id": 213,
         "name": "Kit Ferramentas Manuais Fasterr 189 Peças com Maleta Dobrável Completa - Fasterr",
         "category": "shopee",
         "price": 0.00,
@@ -1985,7 +1972,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 215,
+        "id": 214,
         "name": "Kit potes de mantimentos cozinha com 9 peças de plástico decorado",
         "category": "shopee",
         "price": 0.00,
@@ -1996,7 +1983,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 216,
+        "id": 215,
         "name": "Kits Pares de Meias Soquete Cano Curto Masculina Feminina Unissex varejo",
         "category": "shopee",
         "price": 0.00,
@@ -2007,7 +1994,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 217,
+        "id": 216,
         "name": "Projetor 4K HD, adequado para celular, TV Box, Xbox, PS, PC, suporte WiFi, HY300 Pro Magcubic, envio imediato",
         "category": "shopee",
         "price": 0.00,
@@ -2018,7 +2005,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 218,
+        "id": 217,
         "name": "Carregador Portátil Mini Power Bank 10000mAh Com 02 Saídas Tipo-C / Lightning",
         "category": "shopee",
         "price": 0.00,
@@ -2029,7 +2016,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 219,
+        "id": 218,
         "name": "Jogo de Panelas Legacy Antiaderente Revestimento Cerâmico 5 Peças Tampa de Vidro",
         "category": "shopee",
         "price": 0.00,
@@ -2040,7 +2027,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 220,
+        "id": 219,
         "name": "Espuma Spray Zip Clean 300ml Limpa a Seco Sofá, Estofado, Banco de Carro Limpeza Profunda",
         "category": "shopee",
         "price": 0.00,
@@ -2051,7 +2038,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 221,
+        "id": 220,
         "name": "Chinelo Ortopedico Modare Feminino Esporão Massageador Macio",
         "category": "shopee",
         "price": 0.00,
@@ -2062,7 +2049,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 222,
+        "id": 221,
         "name": "Kit 3 Calças Legging Feminina Academia Fitness Cintura Alta Levanta Bumbum Zero Transparência",
         "category": "shopee",
         "price": 0.00,
@@ -2073,7 +2060,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 223,
+        "id": 222,
         "name": "Kit Casa Limpa Coala/Zulu Perfumes - Chá Branco",
         "category": "shopee",
         "price": 0.00,
@@ -2084,7 +2071,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 224,
+        "id": 223,
         "name": "Escolha seu Kit Organizadores de Geladeira e Armário 3,8L – Cestos Acrílico Transparente para Cozinha, Frutas, Verduras",
         "category": "shopee",
         "price": 0.00,
@@ -2095,7 +2082,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 225,
+        "id": 224,
         "name": "Kit Menina Sandália Infantil com Bolsinha Linda e Delicada",
         "category": "shopee",
         "price": 0.00,
@@ -2106,7 +2093,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 226,
+        "id": 225,
         "name": "Limpador Pincel Esponja Maquiagem Elétrico USB Automático Lava Seca Armazena",
         "category": "shopee",
         "price": 0.00,
@@ -2114,10 +2101,10 @@ window.products = [
         "description": "Oferta Shopee. Clique para conferir.",
         "image": "https://down-br.img.susercontent.com/file/br-11134258-7r98o-mbpr92sw6g6132",
         "link": "https://s.shopee.com.br/8AQXnf3ary",
-        "highlight": false
+        "highlight": true
     },
     {
-        "id": 227,
+        "id": 226,
         "name": "Garrafa Alumínio Infantil Buba 450ml Canudo Retrátil | Escolar Verão | 4 Temas Divertidos",
         "category": "shopee",
         "price": 0.00,
@@ -2128,7 +2115,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 228,
+        "id": 227,
         "name": "Frigideira Multifuncional Antiaderente 4 Em 1 Para Ovos , Hambúrguer , Omelete , Com Cabo De Madeira",
         "category": "shopee",
         "price": 0.00,
@@ -2139,7 +2126,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 229,
+        "id": 228,
         "name": "Jogos de Tapetes para Banheiro Peças | Algodão Pelúcia Macio Antiderrapante Conjunto",
         "category": "shopee",
         "price": 0.00,
@@ -2150,7 +2137,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 230,
+        "id": 229,
         "name": "Kit 10 Limpador de máquina de lavar, comprimido efervescente sólido para remover manchas",
         "category": "shopee",
         "price": 0.00,
@@ -2161,7 +2148,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 231,
+        "id": 230,
         "name": "Panela de Pressão Elétrica 6L 1000W PPE102 - Kian",
         "category": "shopee",
         "price": 0.00,
@@ -2172,7 +2159,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 232,
+        "id": 231,
         "name": "Rede Cadeira Balanço Descanso Teto Suspensa Trançada Reforçada - Varias Cores",
         "category": "shopee",
         "price": 0.00,
@@ -2180,10 +2167,10 @@ window.products = [
         "description": "Oferta Shopee. Clique para conferir.",
         "image": "https://down-br.img.susercontent.com/file/br-11134258-7r98o-mbpr92sw6g6132",
         "link": "https://s.shopee.com.br/2g5bFYOX2Q",
-        "highlight": false
+        "highlight": true
     },
     {
-        "id": 233,
+        "id": 232,
         "name": "Kit Colcha Cobre Leito Casal Queen King 3 Peças Estampada Florida Matelado Boutis Percal Cama Box",
         "category": "shopee",
         "price": 0.00,
@@ -2194,7 +2181,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 234,
+        "id": 233,
         "name": "Saia de carnaval de fitas metalizadas fitilho coloridas várias cores",
         "category": "shopee",
         "price": 0.00,
@@ -2205,7 +2192,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 235,
+        "id": 234,
         "name": "Kit Cetim Antifrizz 2 Fronhas Touca de Cetim Regulável Xuxinha Scrunchie Cabelo para Dormir",
         "category": "shopee",
         "price": 0.00,
@@ -2216,7 +2203,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 236,
+        "id": 235,
         "name": "Kit com 02/05/10 Calcinha Importada Shortinho Infantil Estampado para Menina Tam 02 a 10 Anos",
         "category": "shopee",
         "price": 0.00,
@@ -2227,7 +2214,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 237,
+        "id": 236,
         "name": "Mangueira de Jardim Anti-Torção e Anti-Dobras de 5 a 50 Metros",
         "category": "shopee",
         "price": 0.00,
@@ -2238,7 +2225,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 238,
+        "id": 237,
         "name": "Ventilador de Teto com Luz Silencioso Controle Remoto Economica E27 Instalação Fácil LED Bivolt",
         "category": "shopee",
         "price": 0.00,
@@ -2249,7 +2236,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 239,
+        "id": 238,
         "name": "Esfoliante Corpo e Rosto Cheiro de Fruta Labotrat 300g ou 150g - maracujá - melancia - morango - pitaya - pêssego",
         "category": "shopee",
         "price": 0.00,
@@ -2260,7 +2247,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 240,
+        "id": 239,
         "name": "Kit 1,2 e 4 Organizador de Geladeira 3,8 Litros Cesto ou 2,8 Com Tampa Multiuso Alimento Verdura e Vegetal",
         "category": "shopee",
         "price": 0.00,
@@ -2271,7 +2258,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 241,
+        "id": 240,
         "name": "Garrafa De Água Infantil Interativa Educacional Com Cores E Tabuada Números E Contas interativa De Contas Giratórias",
         "category": "shopee",
         "price": 0.00,
@@ -2282,7 +2269,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 242,
+        "id": 241,
         "name": "Capa Para Colchão Impermeavel Matelado Com Elastico",
         "category": "shopee",
         "price": 0.00,
@@ -2293,7 +2280,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 243,
+        "id": 242,
         "name": "Bicicleta Aro 29 KGT Aço Carbono Freios a Disco Suspensão 21 Marchas",
         "category": "shopee",
         "price": 0.00,
@@ -2304,7 +2291,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 244,
+        "id": 243,
         "name": "Balança Bioimpedância Medidora Corporal Bluetooth Até 180 Kg + Balança De Cozinha Precisão Digital 1g Até 10 Kg",
         "category": "shopee",
         "price": 0.00,
@@ -2315,7 +2302,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 245,
+        "id": 244,
         "name": "Repelente Eletrônico Ultrassônico Mosca Pernilongos Baratas Morcegos repele e Espanta Ratos bivolt",
         "category": "shopee",
         "price": 0.00,
@@ -2326,7 +2313,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 246,
+        "id": 245,
         "name": "Fatiador de cozinha multifuncional profissional em aço inoxidável 16 em 1 fatiador de vegetais/frutas/legumes",
         "category": "shopee",
         "price": 0.00,
@@ -2337,7 +2324,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 247,
+        "id": 246,
         "name": "Kit Capa Almofada Fita Losango Azul Jeans Manta Grande Decorativa Sofa Cama Rustica Carnaval",
         "category": "shopee",
         "price": 0.00,
@@ -2348,7 +2335,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 248,
+        "id": 247,
         "name": "Chinelo Feminino Plataforma Trançado Ortopédico Confortável",
         "category": "shopee",
         "price": 0.00,
@@ -2359,7 +2346,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 249,
+        "id": 248,
         "name": "Kit com 5 Potes de Vidro tigela com Tampa –135 ml, 200 ml, 400 ml, 550 ml, 1000 ml|alimentos",
         "category": "shopee",
         "price": 0.00,
@@ -2370,7 +2357,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 250,
+        "id": 249,
         "name": "Varal de Roupa de Parede Retrátil de alumínio para Sacada Até 80kg",
         "category": "shopee",
         "price": 0.00,
@@ -2381,7 +2368,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 251,
+        "id": 250,
         "name": "Robô Varredora/Aspirador De Pó 1200PA Automática 3 Em 1 Limpeza Doméstica Robótico Inteligente E Silencioso",
         "category": "shopee",
         "price": 0.00,
@@ -2392,7 +2379,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 252,
+        "id": 251,
         "name": "Mesa para Notebook Mesinha para Computador Portátil Cama para estudos com Gaveta Dobravel",
         "category": "shopee",
         "price": 0.00,
@@ -2403,7 +2390,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 253,
+        "id": 252,
         "name": "Caixa Térmica Cooler Premium 32L 3 em 1 Multifuncional com Mesa e Rodas Praia Camping Churrasco",
         "category": "shopee",
         "price": 0.00,
@@ -2414,7 +2401,7 @@ window.products = [
         "highlight": false
     },
     {
-        "id": 254,
+        "id": 253,
         "name": "Varal De Chão Roupa Calcinha Grade 3 Andares Dobrável Portátil",
         "category": "shopee",
         "price": 0.00,
