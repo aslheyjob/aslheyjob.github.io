@@ -2410,8 +2410,7 @@ window.products = [
         "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-mdarhuorrgg19a.webp",
         "link": "https://s.shopee.com.br/BOGGZYsL5",
         "highlight": false
-    }
-    ,
+    },
     {
         "id": 254,
         "name": "Petisco Vareta Pet  Pele Bovina  em Tiras Alecrim Pet 150g Mordedor Natural Osso Brinquedo Pet",
@@ -2419,7 +2418,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-mdqd6qav1epl82_tn",
         "link": "https://s.shopee.com.br/3B2KZF60JH",
         "highlight": false
     },
@@ -2430,7 +2429,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-meuvy6jmsa2qfe.webp",
         "link": "https://s.shopee.com.br/3LLklY5MyK",
         "highlight": false
     },
@@ -2441,7 +2440,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/sg-11134201-7rcc4-m6gygink98ka11@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/3VfAxr4jdN",
         "highlight": false
     },
@@ -2452,7 +2451,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mest76ulyd4yfd.webp",
         "link": "https://s.shopee.com.br/3fybAA46IQ",
         "highlight": false
     },
@@ -2463,7 +2462,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m9ak70ud6uyhfb@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/3qI1MT3SxT",
         "highlight": false
     },
@@ -2474,7 +2473,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mfoko4xbxath94@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/1LagNsCz20",
         "highlight": false
     },
@@ -2485,7 +2484,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/sg-11134201-7rd42-m7zd9e2no4gyee.webp",
         "link": "https://s.shopee.com.br/1Vu6aBCLh3",
         "highlight": false
     },
@@ -2496,7 +2495,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-81ztc-mkctk7fczpj5c1.webp",
         "link": "https://s.shopee.com.br/1gDWmUBiM6",
         "highlight": false
     },
@@ -2507,7 +2506,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-81ztc-mkdpr7vwm96p98.webp",
         "link": "https://s.shopee.com.br/1qWwynB519",
         "highlight": false
     },
@@ -2518,7 +2517,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/sg-11134201-8259x-mftzeed9hr0p11.webp",
         "link": "https://s.shopee.com.br/20qNB6ARgC",
         "highlight": false
     },
@@ -2529,7 +2528,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-met7izx63e2o4f@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/2B9nNP9oLF",
         "highlight": false
     },
@@ -2540,7 +2539,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/sg-11134201-7rfgq-m9et1t0ky8et5e@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/2LTDZi9B0I",
         "highlight": false
     },
@@ -2551,7 +2550,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m9yrmk4iof7mf0@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/2Vmdm18XfL",
         "highlight": false
     },
@@ -2562,7 +2561,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-mb2qez748w6x64@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/15InQI3js",
         "highlight": false
     },
@@ -2573,7 +2572,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-81ztc-mjorbotxivba53.webp",
         "link": "https://s.shopee.com.br/BOizjHQOv",
         "highlight": false
     },
@@ -2584,7 +2583,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m6x2v3st437494.webp",
         "link": "https://s.shopee.com.br/Li9C2Gn3y",
         "highlight": false
     },
@@ -2595,7 +2594,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m217uljmv6xwdf@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/W1ZOLG9j1",
         "highlight": false
     },
@@ -2617,7 +2616,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-mdp2m9p7ltqpaa@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/qePmxEt37",
         "highlight": false
     },
@@ -2628,7 +2627,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mfok94dxd91g40.webp",
         "link": "https://s.shopee.com.br/10xpzGEFiA",
         "highlight": false
     },
@@ -2639,7 +2638,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m8f1zv8xn47l83@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/1BHGBZDcND",
         "highlight": false
     },
@@ -2650,7 +2649,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-maoe3899hc6x50@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/9KcxuZiWno",
         "highlight": false
     },
@@ -2661,7 +2660,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m6trzsb2y0cn2a@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/9UwO6shtSr",
         "highlight": false
     },
@@ -2672,7 +2671,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lygudhmozuz92c@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/9fFoJBhG7u",
         "highlight": false
     },
@@ -2683,7 +2682,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-81ztc-mj2vd0ts7u2u8a@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/9pZEVUgcmx",
         "highlight": false
     },
@@ -2694,7 +2693,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-me4jidelhlhe79@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/9zsehnfzS0",
         "highlight": false
     },
@@ -2705,7 +2704,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-81ztc-mj984vep0jk16a@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/AAC4u6fM73",
         "highlight": false
     },
@@ -2716,7 +2715,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-81ztc-mk8m37w60s1s37@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/AKVV6Peim6",
         "highlight": false
     },
@@ -2727,7 +2726,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/sg-11134201-7reor-m1rljq6rt7zb99@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/AUovIie5R9",
         "highlight": false
     },
@@ -2738,7 +2737,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mdwhvae5esci88@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/807aK7nbVg",
         "highlight": false
     },
@@ -2749,7 +2748,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mdz34z1nm32b17@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/8AR0WQmyAj",
         "highlight": false
     },
@@ -2760,7 +2759,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/sg-11134201-7rcef-lqxz62ia7tmnb1@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/8KkQijmKpm",
         "highlight": false
     },
@@ -2771,7 +2770,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/sg-11134201-7rdxh-mbs7kct2lnoa55@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/8V3qv2lhUp",
         "highlight": false
     },
@@ -2782,7 +2781,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/sg-11134201-7rauj-mb6tggywcs8935@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/8fNH7Ll49s",
         "highlight": false
     },
@@ -2793,7 +2792,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mesivbnhfnyb27@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/8pghJekQov",
         "highlight": false
     },
@@ -2804,7 +2803,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/sg-11134201-7rdwx-md5sg895uc7ib3@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/9007VxjnTy",
         "highlight": false
     },
@@ -2815,7 +2814,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m3kt7c290tlnf1.webp",
         "link": "https://s.shopee.com.br/9AJXiGjA91",
         "highlight": false
     },
@@ -2826,7 +2825,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/sg-11134201-824ic-mflmkyoailmz4b@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/6fcCjfsgDY",
         "highlight": false
     },
@@ -2837,7 +2836,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-mbr4wqbbsp0nee@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/6pvcvys2sb",
         "highlight": false
     },
@@ -2848,7 +2847,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-81ztc-mkdpr7vwta0x97.webp",
         "link": "https://s.shopee.com.br/70F38HrPXe",
         "highlight": false
     },
@@ -2859,7 +2858,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/sg-11134201-7rep3-m2mjzy10wzyea1@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/7AYTKaqmCh",
         "highlight": false
     },
@@ -2870,7 +2869,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mdyko4yakn4333.webp",
         "link": "https://s.shopee.com.br/7KrtWtq8rk",
         "highlight": false
     },
@@ -2881,7 +2880,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/sg-11134201-8259o-mevicfapb6rkb1@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/7VBJjCpVWn",
         "highlight": false
     },
@@ -2892,7 +2891,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m3m5xcys7woof7.webp",
         "link": "https://s.shopee.com.br/7fUjvVosBq",
         "highlight": false
     },
@@ -2903,7 +2902,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-820lf-ml6ece87di4nf5@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/7poA7ooEqt",
         "highlight": false
     },
@@ -2914,7 +2913,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m3m5xcys0vug5a.webp",
         "link": "https://s.shopee.com.br/5L6p9DxkvQ",
         "highlight": false
     },
@@ -2925,7 +2924,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/sg-11134201-7ra15-mbleelsfm7vp6e@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/5VQFLWx7aT",
         "highlight": false
     },
@@ -2936,7 +2935,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-mdf8po1x891ta3.webp",
         "link": "https://s.shopee.com.br/5fjfXpwUFW",
         "highlight": false
     },
@@ -2947,7 +2946,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/sg-11134201-7rd63-m7a2i6r7epf9a3@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/5q35k8vquZ",
         "highlight": false
     },
@@ -2958,7 +2957,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mfq9h9qysbnr94.webp",
         "link": "https://s.shopee.com.br/60MVwRvDZc",
         "highlight": false
     },
@@ -2969,7 +2968,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-luunla1zrdy8d4@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/6Afw8kuaEf",
         "highlight": false
     },
@@ -2980,7 +2979,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/sg-11134201-7rdvs-mbs7jr22gxss27@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/6KzML3twti",
         "highlight": false
     },
@@ -2991,7 +2990,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-ma8qfru8pr3te1@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/6VImXMtJYl",
         "highlight": false
     },
@@ -3002,7 +3001,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mdx6cw8oqeiq7e.webp",
         "link": "https://s.shopee.com.br/4Aurl52CIK",
         "highlight": false
     },
@@ -3013,7 +3012,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mfln67kbod8k14@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/40bRYm2pdJ",
         "highlight": false
     },
@@ -3023,8 +3022,7 @@ window.products = [
         "category": "shopee",
         "price": 0.00,
         "oldPrice": null,
-        "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "descriptihttps://down-br.img.susercontent.com/file/br-11134207-7r98o-lv24xfv9limn6d@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/4VXi9h0vcQ",
         "highlight": false
     },
@@ -3035,7 +3033,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mhdhug9m8b2db1.webp",
         "link": "https://s.shopee.com.br/4LEHxO1YxP",
         "highlight": false
     },
@@ -3046,7 +3044,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134275-81ztc-mjys4voqzlz77e@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/4qAYYIzewW",
         "highlight": false
     },
@@ -3057,7 +3055,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-merqeej7l5vk28@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/4fr8M00IHV",
         "highlight": false
     },
@@ -3068,7 +3066,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m9ua6sget3y10b.webp",
         "link": "https://s.shopee.com.br/5AnOwuyOGc",
         "highlight": false
     },
@@ -3079,7 +3077,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lub1q2l38ig0e7.webp",
         "link": "https://s.shopee.com.br/50Tykbz1bb",
         "highlight": false
     },
@@ -3090,7 +3088,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m8o6vy3kc5n565.webp",
         "link": "https://s.shopee.com.br/2qPUAd7H0C",
         "highlight": false
     },
@@ -3101,7 +3099,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m1mqhqpyyripbe@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/2g63yK7uLB",
         "highlight": false
     },
@@ -3112,7 +3110,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/sg-11134201-7renr-m2fqg0ahcirc97@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/3B2KZF60KI",
         "highlight": false
     },
@@ -3123,7 +3121,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lub1q2l3qrts42.webp",
         "link": "https://s.shopee.com.br/30iuMw6dfH",
         "highlight": false
     },
@@ -3134,7 +3132,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-81ztc-mjt009ugtqma62.webp",
         "link": "https://s.shopee.com.br/3VfAxr4jeO",
         "highlight": false
     },
@@ -3145,7 +3143,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m1933ona9hcy9a.webp",
         "link": "https://s.shopee.com.br/3LLklY5MzN",
         "highlight": false
     },
@@ -3156,7 +3154,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-820lj-ml7wbswn7sp08a.webp",
         "link": "https://s.shopee.com.br/3qI1MT3SyU",
         "highlight": false
     },
@@ -3167,7 +3165,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-81ztc-mjcsqijdwd8m0d.webp",
         "link": "https://s.shopee.com.br/3fybAA46JT",
         "highlight": false
     },
@@ -3178,7 +3176,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/sg-11134201-7rfff-m9g8xb57ssrm58@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/1Vu6aBCLi4",
         "highlight": false
     },
@@ -3189,7 +3187,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lub1q2l3tkt095.webp",
         "link": "https://s.shopee.com.br/1LagNsCz33",
         "highlight": false
     },
@@ -3200,7 +3198,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-81ztc-mjcsqijduyo613.webp",
         "link": "https://s.shopee.com.br/1qWwynB52A",
         "highlight": false
     },
@@ -3211,7 +3209,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-81zuc-mkzrf8dz4t8g3c.webp",
         "link": "https://s.shopee.com.br/1gDWmUBiN9",
         "highlight": false
     },
@@ -3222,7 +3220,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-81ztg-ml3w4gxupam881@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/2B9nNP9oMG",
         "highlight": false
     },
@@ -3233,7 +3231,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lt4azdiizz1uca.webp",
         "link": "https://s.shopee.com.br/20qNB6ARhF",
         "highlight": false
     },
@@ -3244,7 +3242,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m0m8yn2ysold42.webp",
         "link": "https://s.shopee.com.br/2Vmdm18XgM",
         "highlight": false
     },
@@ -3255,7 +3253,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m620375745q48e.webp",
         "link": "https://s.shopee.com.br/2LTDZi9B1L",
         "highlight": false
     },
@@ -3266,7 +3264,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/864799c8bf4b9fae9444977143a068a6.webp",
         "link": "https://s.shopee.com.br/BOizjHQPw",
         "highlight": false
     },
@@ -3277,7 +3275,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-81zty-mkjly8rtlqtc43.webp",
         "link": "https://s.shopee.com.br/15InQI3kv",
         "highlight": false
     },
@@ -3288,7 +3286,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m1ajbwex4zmo5a@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/W1ZOLG9k2",
         "highlight": false
     },
@@ -3299,7 +3297,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m9t6fuvw0kqqad.webp",
         "link": "https://s.shopee.com.br/Li9C2Gn51",
         "highlight": false
     },
@@ -3310,7 +3308,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m9zvetnombeh55.webp",
         "link": "https://s.shopee.com.br/qePmxEt48",
         "highlight": false
     },
@@ -3321,7 +3319,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/62683aa231ca666f94bfd840bfbd6f20.webp",
         "link": "https://s.shopee.com.br/gKzaeFWP7",
         "highlight": false
     },
@@ -3332,7 +3330,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98r-lm3crzan7aqz03.webp",
         "link": "https://s.shopee.com.br/1BHGBZDcOE",
         "highlight": false
     },
@@ -3343,7 +3341,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/sg-11134201-821gc-mgkzgdsw311k6c@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/10xpzGEFjD",
         "highlight": false
     },
@@ -3354,7 +3352,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m854750esb9t26.webp",
         "link": "https://s.shopee.com.br/9UwO6shtTs",
         "highlight": false
     },
@@ -3365,7 +3363,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/sg-11134201-7rfgg-m3298493sai62a@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/9KcxuZiWor",
         "highlight": false
     },
@@ -3376,7 +3374,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/sg-11134201-7rd52-lwqez9zmwwwv48.webp",
         "link": "https://s.shopee.com.br/9pZEVUgcny",
         "highlight": false
     },
@@ -3387,7 +3385,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/sg-11134201-7ra23-m4skik2yripgbd.webp",
         "link": "https://s.shopee.com.br/9fFoJBhG8x",
         "highlight": false
     },
@@ -3398,7 +3396,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lr4idwgb51xp14.webp",
         "link": "https://s.shopee.com.br/AAC4u6fM84",
         "highlight": false
     },
@@ -3409,7 +3407,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-mbu6xx6lotaxb6.webp",
         "link": "https://s.shopee.com.br/9zsehnfzT3",
         "highlight": false
     },
@@ -3420,7 +3418,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/sg-11134201-7rasb-mb5ebmokut4za3@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/AUovIie5SA",
         "highlight": false
     },
@@ -3431,7 +3429,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lymc0rmauufp54.webp",
         "link": "https://s.shopee.com.br/AKVV6Pein9",
         "highlight": false
     },
@@ -3442,7 +3440,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-mbmcycn3fo1k2f.webp",
         "link": "https://s.shopee.com.br/8AR0WQmyBk",
         "highlight": false
     },
@@ -3453,7 +3451,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-81ztc-mk4d1afeqayrf5.webp",
         "link": "https://s.shopee.com.br/807aK7nbWj",
         "highlight": false
     },
@@ -3464,7 +3462,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/sg-11134201-7rd3x-m729tit3o3s1c4.webp",
         "link": "https://s.shopee.com.br/8V3qv2lhVq",
         "highlight": false
     },
@@ -3475,7 +3473,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/sg-11134201-7rdx6-mbr2xz57b6tye0.webp",
         "link": "https://s.shopee.com.br/8KkQijmKqp",
         "highlight": false
     },
@@ -3486,7 +3484,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/574054d2d73d86604cb82595e2e3d745.webp",
         "link": "https://s.shopee.com.br/8pghJekQpw",
         "highlight": false
     },
@@ -3497,7 +3495,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m54eede7ljuab0.webp",
         "link": "https://s.shopee.com.br/8fNH7Ll4Av",
         "highlight": false
     },
@@ -3508,7 +3506,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/sg-11134201-7renf-m22vj6sdcb5r31.webp",
         "link": "https://s.shopee.com.br/9AJXiGjAA2",
         "highlight": false
     }
@@ -3520,7 +3518,7 @@ window.products = [
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-mcv7zzthdsldde.webp",
         "link": "https://s.shopee.com.br/AUovLRxsmG",
         "highlight": false
     },
