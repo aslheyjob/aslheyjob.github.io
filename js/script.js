@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const modalBuyBtn = document.querySelector('.modal-buy-btn');
 
     // --- Configuração Paginação ---
-    const ITEMS_PER_PAGE = 8;
+    const ITEMS_PER_PAGE = 20;
     let currentPage = 1;
     let currentFilteredProducts = []; // Para manter estado dos filtros
 
