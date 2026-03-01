@@ -3998,6 +3998,94 @@ window.products = [
         "highlight": false
     },
     {
+        "id": 3000,
+        "name": "conjunto de alfaiataria elegante com calça pantalona e cropped/DD032 50 vendido",
+        "category": "shein",
+        "price": 65.69,
+        "oldPrice": null,
+        "description": "Oferta Shein. Clique para conferir.",
+        "image": "",
+        "link": "https://onelink.shein.com/31/5hyx10vdse80",
+        "highlight": false
+    },
+    {
+        "id": 3001,
+        "name": "Conjunto Feminino Bomber Estampado Shorts Saia Tactel Animal Print Moda",
+        "category": "shein",
+        "price": 75.65,
+        "oldPrice": null,
+        "description": "Oferta Shein. Clique para conferir.",
+        "image": "",
+        "link": "https://onelink.shein.com/31/5hyx1yewygjr",
+        "highlight": false
+    },
+    {
+        "id": 3002,
+        "name": "BARUBT 1 Peça Pasta de Dente Clareadora de Niacinamida - Menta Fresca - Limpeza Profunda, Ajuda a Remover Manchas - Refresca o Hálito - Adequada para Casa e Viagem, 100g",
+        "category": "shein",
+        "price": 33.12,
+        "oldPrice": null,
+        "description": "Oferta Shein. Clique para conferir.",
+        "image": "",
+        "link": "https://onelink.shein.com/31/5hyx2s0dna6p",
+        "highlight": false
+    },
+    {
+        "id": 3003,
+        "name": "Vestido de Bebê Manga Curta Vicky",
+        "category": "shein",
+        "price": 27.93,
+        "oldPrice": null,
+        "description": "Oferta Shein. Clique para conferir.",
+        "image": "",
+        "link": "https://onelink.shein.com/31/5hyx3bqorty6",
+        "highlight": false
+    },
+    {
+        "id": 3004,
+        "name": "Tênis Cano Baixo Bebe Menina e Menino - VÁRIAS CORES",
+        "category": "shein",
+        "price": 25.42,
+        "oldPrice": null,
+        "description": "Oferta Shein. Clique para conferir.",
+        "image": "",
+        "link": "https://onelink.shein.com/31/5hyx3xg0tes3",
+        "highlight": false
+    },
+    {
+        "id": 3005,
+        "name": "Cápsulas Concentradas de Detergente de Lavanderia 5 em 1, Pérolas Multiuso Adequadas para Apartamentos e Uso Doméstico 100 vendido",
+        "category": "shein",
+        "price": 21.27,
+        "oldPrice": null,
+        "description": "Oferta Shein. Clique para conferir.",
+        "image": "",
+        "link": "https://onelink.shein.com/31/5hyx4p2gc2mi",
+        "highlight": false
+    },
+    {
+        "id": 3006,
+        "name": "Slide Feminino em PVC Melflex, Conforto Prolongado e Design Moderno, Ideal para Look Casual e Atividades do Dia a Dia",
+        "category": "shein",
+        "price": 39.99,
+        "oldPrice": null,
+        "description": "Oferta Shein. Clique para conferir.",
+        "image": "",
+        "link": "https://onelink.shein.com/31/5hyx6k5i81m7",
+        "highlight": false
+    },
+    {
+        "id": 3007,
+        "name": "SHEIN Conjunto de 2 peças Blusa Moletom Colorblock com Estampa de Coração e Legging Fofas para Meninas Jovens, Manga Longa Quente e Confortável, Ótimo para Uso Casual, Diário, Escolar e Doméstico no Outono e Inverno, para o Natal",
+        "category": "shein",
+        "price": 98.39,
+        "oldPrice": null,
+        "description": "Oferta Shein. Clique para conferir.",
+        "image": "",
+        "link": "https://onelink.shein.com/31/5hyx7hp12vbe",
+        "highlight": false
+    },
+    {
         "id": 398,
         "name": "Bebê roupas de bebê outono inverno acolchoado bebê menina macacão final do outono engrossado bebê menina Outing roupas m",
         "category": "shopee",
