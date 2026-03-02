@@ -3022,7 +3022,8 @@ window.products = [
         "category": "shopee",
         "price": 0.00,
         "oldPrice": null,
-        "descriptihttps://down-br.img.susercontent.com/file/br-11134207-7r98o-lv24xfv9limn6d@resize_w900_nl.webp",
+        "description": "Oferta Shopee. Clique para conferir.",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lv24xfv9limn6d@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/4VXi9h0vcQ",
         "highlight": false
     },
