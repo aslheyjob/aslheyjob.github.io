@@ -11,7 +11,7 @@ window.products = [
         "description": "Oferta imperdível do Mercado Livre.",
         "image": "https://http2.mlstatic.com/D_NQ_NP_2X_662415-MLA97812910758_112025-F.webp",
         "link": "https://mercadolivre.com/sec/2h7z9NU",
-        "highlight": true
+        "highlight": false
     },
     {
         "id": 2,
@@ -44,7 +44,7 @@ window.products = [
         "description": "Confira os detalhes no site.",
         "image": "https://http2.mlstatic.com/D_NQ_NP_2X_963485-MLB94579785063_102025-F-800mlgarrafa-termica-agua-squeeze-inox-academiaquente-e-frio.webp",
         "link": "https://mercadolivre.com/sec/2m2XDGF",
-        "highlight": true
+        "highlight": false
     },
     {
         "id": 5,
@@ -3921,78 +3921,67 @@ window.products = [
     },
     {
         "id": 391,
-        "name": "Bebê bebê verão macacão Modal masculino feminino bebê fino macacão ar condicionado roupas bebê recém-nascido macacão",
-        "category": "shopee",
-        "price": 0.00,
-        "oldPrice": null,
-        "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
-        "link": "https://s.shopee.com.br/4LEI07LMIf",
-        "highlight": false
-    },
-    {
-        "id": 392,
         "name": "Bebê bebê macacão macacão gelo oxigênio algodão verão bebê recém-nascido verão estilo fino triângulo macacão bebê da cri",
         "category": "shopee",
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134258-820m5-ml8a34rlu7t287",
         "link": "https://s.shopee.com.br/4AurnoLzde",
         "highlight": false
     },
     {
-        "id": 393,
+        "id": 392,
         "name": "Body Bebê Menino Branco Calça Saruel Bebê - Roupa de Bebê Branca - Bebê Menino",
         "category": "shopee",
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m3jb2naj10s549.webp",
         "link": "https://s.shopee.com.br/40bRbVMcyd",
         "highlight": false
     },
     {
-        "id": 394,
+        "id": 393,
         "name": "Body Bebê Manga Longa Menino - Roupa Bebê Menino - Body bebê - Roupa bebê menino",
         "category": "shopee",
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lw5y6ymphocy99@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/3qI1PCNGJc",
         "highlight": false
     },
     {
-        "id": 395,
+        "id": 394,
         "name": "Bebê roupas de bebê outono novo macacão bebê puro algodão classe um macacão desossado Anyang roupas infantis do bebê rec",
         "category": "shopee",
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134258-820m5-ml8a34rlu7t287",
         "link": "https://s.shopee.com.br/3fybCtNteb",
         "highlight": false
     },
     {
-        "id": 396,
+        "id": 395,
         "name": "Bebê macacão bebê outono inverno Base bebê uma classe manga longa outono quente macacão interior Wear bebê triângulo mac",
         "category": "shopee",
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134258-820m5-ml8a34rlu7t287",
         "link": "https://s.shopee.com.br/3VfB0aOWza",
         "highlight": false
     },
     {
-        "id": 397,
+        "id": 396,
         "name": "Bebê bebê verão macacão gelo oxigênio algodão bebê verão fino quimono macacão ar condicionado roupas bebê recém-nascido ",
         "category": "shopee",
         "price": 0.00,
         "oldPrice": null,
         "description": "Oferta Shopee. Clique para conferir.",
-        "image": "",
+        "image": "https://down-br.img.susercontent.com/file/br-11134258-820m5-ml8a34rlu7t287",
         "link": "https://s.shopee.com.br/3LLkoHPAKZ",
         "highlight": false
     },
