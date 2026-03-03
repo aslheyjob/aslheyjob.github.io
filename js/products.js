@@ -3994,7 +3994,7 @@ window.products = [
         "description": "Oferta Shopee. Clique para conferir.",
         "image": "https://down-br.img.susercontent.com/file/sg-11134201-821e1-mguxku90661a00@resize_w900_nl.webp",
         "link": "https://s.shopee.com.br/9fFryRnLHc",
-        "highlight": false
+        "highlight": true
     },
     {
         "id": 398,
