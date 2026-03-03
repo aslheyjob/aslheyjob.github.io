@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gostou, Comprou, Chegou | Catálogo de Ofertas</title>
+    <meta name="description" content="As melhores ofertas de Shopee, Mercado Livre e Shein reunidas em um só lugar.">
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -26,13 +27,15 @@
         <div class="container nav">
             <button class="mobile-toggle"><i data-feather="menu"></i></button>
             <a href="#" class="logo">
-                <img src="assets/images/logo-cg.png" alt="Gostou, Comprou, Chegou" style="height: 60px;">
+                <img src="assets/images/logo-cg.png" alt="Gostou, Comprou, Chegou" style="height: 55px;">
             </a>
 
             <ul class="nav-links">
                 <li><a href="#" class="nav-link">Início</a></li>
-                <li><a href="#destaques" class="nav-link">Destaques</a></li>
-                <li><a href="#catalogo" class="nav-link">Produtos</a></li>
+                <li><a href="#destaques-shopee" class="nav-link">Shopee</a></li>
+                <li><a href="#destaques-ml" class="nav-link">Mercado Livre</a></li>
+                <li><a href="#destaques-shein" class="nav-link">Shein</a></li>
+                <li><a href="#catalogo" class="nav-link">Catálogo</a></li>
             </ul>
         </div>
     </header>
@@ -40,54 +43,124 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="container">
-            <h1>As melhores ofertas, <br>entregues na sua porta.</h1>
-            <p>Eletrônicos, moda, casa e muito mais. Escolha o que quiser e nós entregamos com rapidez e segurança.</p>
-            <a href="#catalogo" class="btn btn-primary">Ver Ofertas</a>
+            <div class="hero-badges">
+                <span class="platform-badge shopee-badge">Shopee</span>
+                <span class="platform-badge ml-badge">Mercado Livre</span>
+                <span class="platform-badge shein-badge">Shein</span>
+            </div>
+            <h1>As melhores ofertas,<br>em um só lugar.</h1>
+            <p>Reunimos ofertas incríveis das principais plataformas para você economizar de verdade.</p>
+            <a href="#catalogo" class="btn btn-primary">Ver Todas as Ofertas</a>
         </div>
     </section>
 
-    <!-- Destaques -->
-    <section id="destaques" class="section">
+    <!-- Plataformas Strip -->
+    <div class="platforms-strip">
         <div class="container">
-            <div class="text-center mb-2">
-                <h2>Produtos em Destaque</h2>
-                <p>Nossa seleção especial com os melhores preços da semana.</p>
+            <div class="platforms-row">
+                <a href="#destaques-shopee" class="platform-pill shopee-pill">
+                    <i data-feather="shopping-bag"></i> Shopee
+                </a>
+                <a href="#destaques-ml" class="platform-pill ml-pill">
+                    <i data-feather="tag"></i> Mercado Livre
+                </a>
+                <a href="#destaques-shein" class="platform-pill shein-pill">
+                    <i data-feather="star"></i> Shein
+                </a>
+                <a href="#catalogo" class="platform-pill all-pill">
+                    <i data-feather="grid"></i> Todos
+                </a>
             </div>
-            <div id="featured-container" class="product-grid">
-                <!-- Javascript vai renderizar aqui -->
-                <p>Carregando destaques...</p>
+        </div>
+    </div>
+
+    <!-- Destaques Shopee -->
+    <section id="destaques-shopee" class="section featured-section shopee-section">
+        <div class="container">
+            <div class="section-header">
+                <div class="section-title-group">
+                    <span class="section-platform-label shopee-label">Shopee</span>
+                    <h2>🔥 Destaques Shopee</h2>
+                    <p>Os produtos mais buscados com frete grátis</p>
+                </div>
+                <a href="#catalogo" class="see-all-btn" onclick="filterByPlatform('shopee')">Ver todos <i
+                        data-feather="arrow-right"></i></a>
+            </div>
+            <div id="featured-shopee" class="product-grid mini-grid">
+                <p class="loading-text">Carregando...</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Destaques Mercado Livre -->
+    <section id="destaques-ml" class="section featured-section ml-section">
+        <div class="container">
+            <div class="section-header">
+                <div class="section-title-group">
+                    <span class="section-platform-label ml-label">Mercado Livre</span>
+                    <h2>⚡ Destaques Mercado Livre</h2>
+                    <p>Ofertas com entrega rápida e MercadoPago</p>
+                </div>
+                <a href="#catalogo" class="see-all-btn" onclick="filterByPlatform('mercadolivre')">Ver todos <i
+                        data-feather="arrow-right"></i></a>
+            </div>
+            <div id="featured-ml" class="product-grid mini-grid">
+                <p class="loading-text">Carregando...</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Destaques Shein -->
+    <section id="destaques-shein" class="section featured-section shein-section">
+        <div class="container">
+            <div class="section-header">
+                <div class="section-title-group">
+                    <span class="section-platform-label shein-label">Shein</span>
+                    <h2>✨ Destaques Shein</h2>
+                    <p>Moda e acessórios com cupons exclusivos</p>
+                </div>
+                <a href="#catalogo" class="see-all-btn" onclick="filterByPlatform('shein')">Ver todos <i
+                        data-feather="arrow-right"></i></a>
+            </div>
+            <div id="featured-shein" class="product-grid mini-grid">
+                <p class="loading-text">Carregando...</p>
             </div>
         </div>
     </section>
 
     <!-- Catálogo Completo -->
-    <section id="catalogo" class="section" style="background-color: #f1f5f9;">
+    <section id="catalogo" class="section catalog-section">
         <div class="container">
             <div class="text-center mb-2">
                 <h2>Catálogo Completo</h2>
+                <p>Filtre por plataforma ou busque pelo produto que deseja</p>
             </div>
 
             <!-- Filtros e Busca -->
             <div class="filters-bar">
                 <div class="categories">
                     <button class="category-btn active" data-category="todos">Todos</button>
-                    <button class="category-btn" data-category="shopee"
-                        style="border-color: #ee4d2d; color: #ee4d2d;">Shopee</button>
-                    <button class="category-btn" data-category="mercadolivre"
-                        style="border-color: #ffe600; color: #333;">Mercado Livre</button>
-                    <button class="category-btn" data-category="eletronicos">Eletrônicos</button>
-                    <button class="category-btn" data-category="casa">Casa</button>
-                    <button class="category-btn" data-category="moda">Moda</button>
-                    <button class="category-btn" data-category="beleza">Beleza</button>
+                    <button class="category-btn shopee-btn" data-category="shopee">
+                        <i data-feather="shopping-bag"></i> Shopee
+                    </button>
+                    <button class="category-btn ml-btn" data-category="mercadolivre">
+                        <i data-feather="tag"></i> Mercado Livre
+                    </button>
+                    <button class="category-btn shein-btn" data-category="shein">
+                        <i data-feather="star"></i> Shein
+                    </button>
                 </div>
                 <div class="search-box">
+                    <i data-feather="search"></i>
                     <input type="text" id="search-input" placeholder="Buscar produto...">
                 </div>
             </div>
 
+            <!-- Contador de resultados -->
+            <div id="results-count" class="results-count"></div>
+
             <!-- Grid de Produtos -->
             <div id="products-container" class="product-grid">
-                <!-- Javascript vai renderizar aqui -->
                 <p>Carregando produtos...</p>
             </div>
 
@@ -126,7 +199,7 @@
                 <p id="modal-description">Descrição detalhada do produto.</p>
 
                 <a href="#" target="_blank" class="btn btn-buy modal-buy-btn">
-                    Continuar Compra <i data-feather="message-circle"></i>
+                    Continuar Compra <i data-feather="external-link"></i>
                 </a>
             </div>
         </div>
